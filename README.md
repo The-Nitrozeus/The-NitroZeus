@@ -65,9 +65,12 @@
 
 ###
 <div align="center">
-  ### 🤣 Random Dev Joke
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  ### 🤣 Random Dev Joke  
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 </div>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/The-NitroZeus/count.svg?"  />
 </div>
