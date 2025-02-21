@@ -1,5 +1,5 @@
 
-<pre style="font-size: 14px; color: cyan; font-weight: bold;">                                                                                                                 
+<pre>                                                                                                                 
  @@@@@@    @@@@@@   @@@@@@@@@@   @@@  @@@   @@@@@@   @@@@@@@  @@@  @@@     @@@@@@@    @@@@@@   @@@  @@@  @@@       
 @@@@@@@   @@@@@@@@  @@@@@@@@@@@  @@@@ @@@  @@@@@@@@  @@@@@@@  @@@  @@@     @@@@@@@@  @@@@@@@@  @@@  @@@  @@@       
 !@@       @@!  @@@  @@! @@! @@!  @@!@!@@@  @@!  @@@    @@!    @@!  @@@     @@!  @@@  @@!  @@@  @@!  @@@  @@!       
@@ -13,7 +13,7 @@
                                                                                                                    
 </pre>
 
-<pre style="font-size: 14px; color: #FF5733; font-weight: bold;">
+<pre>
 ooooo       .o8                    o8o  oooo        .o8           .   oooo                                                   .o8       .o. 
 `888'      "888                    `"'  `888       "888         .o8   `888                                                  "888       888 
  888        888oooo.  oooo  oooo  oooo   888   .oooo888       .o888oo  888 .oo.    .ooooo.       oooo oooo    ooo  .ooooo.   888oooo.  888 
