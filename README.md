@@ -1,4 +1,5 @@
-<pre>                                                                                                                 
+<div align = "center">
+<pre style="font-size: 14px; color: cyan; font-weight: bold;>                                                                                                                 
  @@@@@@    @@@@@@   @@@@@@@@@@   @@@  @@@   @@@@@@   @@@@@@@  @@@  @@@     @@@@@@@    @@@@@@   @@@  @@@  @@@       
 @@@@@@@   @@@@@@@@  @@@@@@@@@@@  @@@@ @@@  @@@@@@@@  @@@@@@@  @@@  @@@     @@@@@@@@  @@@@@@@@  @@@  @@@  @@@       
 !@@       @@!  @@@  @@! @@! @@!  @@!@!@@@  @@!  @@@    @@!    @@!  @@@     @@!  @@@  @@!  @@@  @@!  @@@  @@!       
@@ -15,7 +16,7 @@
 
 ###
 
-<pre>
+<pre style="font-size: 14px; color: cyan; font-weight: bold;>
 ooooo       .o8                    o8o  oooo        .o8           .   oooo                                                   .o8       .o. 
 `888'      "888                    `"'  `888       "888         .o8   `888                                                  "888       888 
  888        888oooo.  oooo  oooo  oooo   888   .oooo888       .o888oo  888 .oo.    .ooooo.       oooo oooo    ooo  .ooooo.   888oooo.  888 
@@ -27,7 +28,7 @@ o888o       `Y8bod8P'  `V88V"V8P' o888o o888o `Y8bod88P"        "888" o888o o888
                                                                                                                                            
                                                                                                                                            
 </pre>
-
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The-NitroZeus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-NitroZeus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
