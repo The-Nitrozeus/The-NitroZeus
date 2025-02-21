@@ -81,12 +81,17 @@
 <img src="https://raw.githubusercontent.com/The-NitroZeus/The-NitroZeus/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align="center">
-  
-  ### 🤣 Random Dev Joke  
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://readme-jokes.vercel.app/api" alt="Joke Section"/>
+    </td>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
-</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/The-NitroZeus/count.svg?"  />
