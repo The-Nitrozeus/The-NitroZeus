@@ -1,5 +1,4 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   <img src="https://github-readme-stats.vercel.app/api?username=The-NitroZeus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-NitroZeus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -65,6 +64,9 @@
 <img src="https://raw.githubusercontent.com/The-NitroZeus/The-NitroZeus/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### 🤣 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/The-NitroZeus/count.svg?"  />
