@@ -19,7 +19,7 @@
 | |  | |__   _   _  _ | |  __| |   _| |_ | |__   _____    _ _ _  _____ | |__ | |
 | |  |  _ \ | | | || || | / _  |  (_   _)|  _ \ | ___ |  | | | || ___ ||  _ \|_|
 | |  | |_) )| |_| || || |( (_| |    | |_ | | | || ____|  | | | || ____|| |_) )_ 
-|_|  |____/ |____/ |_| \_)\____|     \__)|_| |_||_____)   \___/ |_____)|____/|_|                                                                        
+|_|  |____/ |____/ |_| \_)\____|     \__)|_| |_||_____)   \___/ |_____)|____/|_|
 </pre>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The-NitroZeus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
