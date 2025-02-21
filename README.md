@@ -14,16 +14,13 @@
 </pre>
 
 <pre>
-ooooo       .o8                    o8o  oooo        .o8           .   oooo                                                   .o8       .o. 
-`888'      "888                    `"'  `888       "888         .o8   `888                                                  "888       888 
- 888        888oooo.  oooo  oooo  oooo   888   .oooo888       .o888oo  888 .oo.    .ooooo.       oooo oooo    ooo  .ooooo.   888oooo.  888 
- 888        d88' `88b `888  `888  `888   888  d88' `888         888    888P"Y88b  d88' `88b       `88. `88.  .8'  d88' `88b  d88' `88b Y8P 
- 888        888   888  888   888   888   888  888   888         888    888   888  888ooo888        `88..]88..8'   888ooo888  888   888 `8' 
- 888        888   888  888   888   888   888  888   888         888 .  888   888  888    .o         `888'`888'    888    .o  888   888 .o. 
-o888o       `Y8bod8P'  `V88V"V8P' o888o o888o `Y8bod88P"        "888" o888o o888o `Y8bod8P'          `8'  `8'     `Y8bod8P'  `Y8bod8P' Y8P 
-                                                                                                                                           
-                                                                                                                                           
-                                                                                                                                           
+ _    _             _  _      _           _                             _     _ 
+| |  | |           (_)| |    | |     _   | |                           | |   | |
+| |  | |__   _   _  _ | |  __| |   _| |_ | |__   _____    _ _ _  _____ | |__ | |
+| |  |  _ \ | | | || || | / _  |  (_   _)|  _ \ | ___ |  | | | || ___ ||  _ \|_|
+| |  | |_) )| |_| || || |( (_| |    | |_ | | | || ____|  | | | || ____|| |_) )_ 
+|_|  |____/ |____/ |_| \_)\____|     \__)|_| |_||_____)   \___/ |_____)|____/|_|
+                                                                                                                                                                                                                    
 </pre>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The-NitroZeus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
