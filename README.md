@@ -71,7 +71,7 @@
 </div>
 
 ###
-
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 <img align="right" height="150" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=790b7611zzwu2fe8wyuxv75f48y6db1dcy2qm3kri3h0ex1f&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###  
@@ -81,16 +81,13 @@
 <img src="https://raw.githubusercontent.com/The-NitroZeus/The-NitroZeus/output/snake.svg" alt="Snake animation" />
 
 ###
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://readme-jokes.vercel.app/api" alt="Joke Section"/>
-    </td>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  ### 🤣 Random Dev Joke  
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+</div>
+
 
 
 <div align="center">
