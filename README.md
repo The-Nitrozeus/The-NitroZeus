@@ -64,10 +64,10 @@
 <img src="https://raw.githubusercontent.com/The-NitroZeus/The-NitroZeus/output/snake.svg" alt="Snake animation" />
 
 ###
-
-### 🤣 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<div align="center">
+  ### 🤣 Random Dev Joke
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/The-NitroZeus/count.svg?"  />
 </div>
